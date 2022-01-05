@@ -1,0 +1,17 @@
+:root {
+  --black-pearl_color: #030e12;
+  --catalina-blue_color: #05386b;
+  --goldenrod_color: #fcde67;
+  --malibu_color: #5bccf6;
+  --merino_color: #f9f6ee;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
