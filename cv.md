@@ -24,3 +24,19 @@ I will be glad to join the creation of open source projects. I would like to wor
 function multiply(a, b) {
   return a * b
 }
+```
+
+## Experience
+* CV#1. Markdown & Git  
+[https://densher.github.io/rsschool-cv/cv](https://densher.github.io/rsschool-cv/cv)
+
+## Education
+* **University:** Sevastopol National Technical University, Automation and Computer Engineering
+* **Courses:** 
+  + [HTML Academy](https://htmlacademy.ru/profile/densher)
+  + [RS School](https://rs.school/js-stage0/)
+
+## Languages
+* Russian - Native
+* Ukrainian - Intermediate
+* English - Elementary
